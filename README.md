@@ -1,4 +1,7 @@
-# react-giscus
+# react-giscus [DEPRECATED]
+
+This package has been deprecated. Use [@giscus/react][giscus-react] from
+[giscus-component][giscus-component] instead.
 
 A React component for [giscus][giscus], a comments system powered by GitHub
 Discussions.
@@ -39,4 +42,6 @@ export default function MyPage() {
 
 MIT
 
+[giscus-react]: https://www.npmjs.com/package/@giscus/react
+[giscus-component]: https://github.com/giscus/giscus-component
 [giscus]: https://giscus.app
